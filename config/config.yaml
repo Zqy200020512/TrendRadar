@@ -146,8 +146,6 @@ platforms:
   - id: "fastbull-news"
     name: "法布财经 头条"
 
-
-
   # === 社交/短视频/娱乐类 ===
   - id: "weibo"
     name: "微博"
